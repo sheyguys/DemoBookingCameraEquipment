@@ -1,0 +1,26 @@
+.tootbar{
+    background-color: #000000;
+    opacity: .8;
+
+}
+.example-icon {
+    padding: 0 14px;
+  }
+  
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+.menu-list{
+    float: left;
+    margin-left: 40px;
+    font-color: #FF3399;
+    font-size: 20px;
+}
+
+mat-toolbar{
+    color: #FF3399;
+}
+
+.example-icon{
+  font-size: 20px;
+}
